@@ -1,0 +1,16 @@
+Estudo de custos para conexao fibra otica
+CTA - Clube de Treinamento de Atletismo
+
+---------------------------------------
+     PREDIOS         CUSTO
+---------------------------------------
+COCTA      H8           6
+ITA        H8           1
+H8         DS           5
+COCTA      IFI          3
+COCTA      ITA          5
+INPE       ITA          4
+IFI        ITA          6
+DS         ITA          5
+DS         INPE         2
+IFI        INPE         6

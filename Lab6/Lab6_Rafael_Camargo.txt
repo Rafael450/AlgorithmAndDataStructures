@@ -1,0 +1,23 @@
+No meio do 2o semestre tinha um lab
+Tinha um lab no meio do 2o semestre
+Nunca me esquecerei desse acontecimento
+Na vida de minhas retinas tão fatigadas
+---------------------------------------
+Ordem de selecao pelo algoritmo
+---------------------------------------
+H8         ITA        1 
+ITA        COCTA      5 
+DS         INPE       2 
+IFI        COCTA      3 
+INPE       ITA        4 
+
+Custo total: 15
+
+---------------------------------------
+Ordem crescente de custos
+---------------------------------------
+H8         ITA        1 
+DS         INPE       2 
+IFI        COCTA      3 
+INPE       ITA        4 
+ITA        COCTA      5 

@@ -1,0 +1,23 @@
+ARQUIVO DE SAIDA
+Lista com pousos
+AUTORIZACOES DE POUSO
+=========================================
+FLIGHT  FROM
+
+1234    Amsterdam
+0000    Nenhum aviao pousando
+8086    San Francisco
+4444    Londres
+0455    putin
+0055    Paris
+
+LISTA URGENCIA:
+
+Vazia
+
+LISTA PRINCIPAL:
+
+0052    peru
+0054    Nova deli
+2552    Tokyo
+6161    Hong Kong

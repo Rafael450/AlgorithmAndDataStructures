@@ -1,0 +1,25 @@
+PASSO 1: Retirar o miojo do pacote
+PASSO 2: Ferver 300 ml de agua
+PASSO 3: Colocar o miojo na panela com agua e deixar por 3 minutos
+PASSO 4: Retirar o miojo da panela
+PASSO 5: Delicie-se
+--------------------------------------------------
+RESPOSTAS DAS CONSULTAS
+--------------------------------------------------
+60       Fazer lab de ces-11
+75       Responder e-mails
+80       Ler noticias
+99       Telefonar para o ente querido
+85       Treino correr 10 km
+51       Ir ao banco pagar conta
+
+--------------------------------------------------
+FICA PARA O DIA SEGUINTE
+--------------------------------------------------
+98       Comprar guarda-chuva
+50       Relatorio de quimica
+40       Estudar matematica
+33       Ensaio de guitarra
+12       Escovar os dentes
+ 8       Pentear o cabelo
+ 5       Limpar apartamento

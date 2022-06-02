@@ -1,0 +1,27 @@
+PASSO 1: Retirar o miojo do pacote
+PASSO 2: Ferver 300 ml de agua
+PASSO 3: Colocar o miojo na panela com agua e deixar por 3 minutos
+PASSO 4: Retirar o miojo da panela
+PASSO 5: Delicie-se
+------------------------------------------------------------
+
+UMA ORDENACAO TOPOLOGICA:
+
+M B C I E F J L K N D G H A 
+
+------------------------------------------------------------
+
+CAMINHO CRITICO:
+
+TAREFA        DESCRICAO           DURACAO
+
+  M   Escavacao                       2
+  B   Fundacao                        4
+  C   Paredes                        10
+  E   Encanamento exterior            4
+  F   Encanamento interior            5
+  J   Divisorias                      8
+  L   Pintura interior                5
+  N   Acabamento interior             6
+                                   ----
+TEMPO MINIMO PARA O PROJETO:         44 semanas
